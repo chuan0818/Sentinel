@@ -31,6 +31,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
  * -Djava.net.preferIPv4Stack=true
  * -Dcsp.sentinel.api.port=8720
  * -Dproject.name=dubbo-provider-demo
+ *
+ * -Djava.net.preferIPv4Stack=true  -Dcsp.sentinel.api.port=8720  -Dproject.name=dubbo-provider-demo -Dcsp.sentinel.dashboard.server=127.0.0.1:8080
  * </pre>
  *
  * @author Eric Zhao

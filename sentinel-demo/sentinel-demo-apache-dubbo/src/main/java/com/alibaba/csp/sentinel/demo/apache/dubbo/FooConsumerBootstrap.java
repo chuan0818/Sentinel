@@ -34,6 +34,8 @@ import java.util.List;
  * -Djava.net.preferIPv4Stack=true
  * -Dcsp.sentinel.api.port=8721
  * -Dproject.name=dubbo-consumer-demo
+ *
+ * -Djava.net.preferIPv4Stack=true  -Dcsp.sentinel.api.port=8721  -Dproject.name=dubbo-consumer-demo -Dcsp.sentinel.dashboard.server=127.0.0.1:8080
  * </pre>
  *
  * @author Eric Zhao
